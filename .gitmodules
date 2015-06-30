@@ -1,0 +1,15 @@
+[submodule "Messages"]
+	path = Messages
+	url = ../Messages
+[submodule "Sender"]
+	path = Sender
+	url = ../Sender
+[submodule "Receiver"]
+	path = Receiver
+	url = ../Receiver
+[submodule "NetworkClass"]
+	path = NetworkClass
+	url = ../../rs-classes/NetworkClass.git
+[submodule "Multithreading"]
+	path = Multithreading
+	url = ../../rs-classes/Multithreading
